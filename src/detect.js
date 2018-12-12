@@ -17,7 +17,7 @@ if (bowser.chrome || bowser.chromium) {
     $('#addingToBrowser').attr("disabled", true);
   } else {
     $('#addingToBrowser').click(function() {
-      chrome.webstore.install("https://chrome.google.com/webstore/detail/panist/ohfemcgmkmcgcidiiaoimjphkndbeckj", function() {
+      chrome.webstore.install(undefined, function() {
         $('#addingToBrowser').text('Extension bien ajoutée !');
         $('#addingToBrowser').attr("disabled", true);
       }, function(msg) {
