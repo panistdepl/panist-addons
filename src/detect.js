@@ -4,7 +4,7 @@ var firefoxVersion = '1.0.0';
 var firefoxLink    = 'download/panist-' + firefoxVersion + '-an+fx.xpi';
 const docUrl = 'https://github.com/panistdepl/panistdepl.github.io/tree/master/browser-extension';
 
-/*
+
 if (bowser.chrome || bowser.chromium) {
   $('#addingToBrowser').text('Ajouter l\'extension à Chrome');
   $('#docUsers').attr('href', docUrl + '#chrome');
@@ -17,7 +17,7 @@ if (bowser.chrome || bowser.chromium) {
     $('#addingToBrowser').attr("disabled", true);
   } else {
     $('#addingToBrowser').click(function() {
-      chrome.webstore.install(undefined, function() {
+      chrome.webstore.install("https://chrome.google.com/webstore/detail/panist/ohfemcgmkmcgcidiiaoimjphkndbeckj", function() {
         $('#addingToBrowser').text('Extension bien ajoutée !');
         $('#addingToBrowser').attr("disabled", true);
       }, function(msg) {
@@ -26,7 +26,6 @@ if (bowser.chrome || bowser.chromium) {
     });
   };
 } else 
-*/
 if (bowser.firefox) {
   if (bowser.check({ firefox: "49" })) {
     $('#addingToBrowser').text('Ajouter l\'extension à Firefox');
