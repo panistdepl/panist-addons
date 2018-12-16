@@ -2,7 +2,7 @@
 
 var firefoxVersion = '1.0.0';
 var firefoxLink    = 'download/panist-' + firefoxVersion + '-an+fx.xpi';
-const docUrl = 'https://github.com/panistdepl/panistdepl.github.io/tree/master/browser-extension';
+const docUrl = 'https://github.com/panistdepl/panist-addons';
 
 
 if (bowser.chrome || bowser.chromium) {
