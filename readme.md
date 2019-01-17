@@ -7,7 +7,7 @@ Installez le en vous rendant sur  [**https://addons.panist.fr**](https://addons.
 
 Voici à quoi ressembleront les boutons PANIST cliquables qui apparaîtront dans les pages web au plus près des références bibliographiques :
 
-![](https://panistdepl.github.io/browser-extension/assets/btn_panist.png)
+![](./assets/btn_panist.png)
 
 Le bouton « PANIST » peut s’activer notamment sur les pages  [Wikipédia](https://fr.wikipedia.org/wiki/Virus_Zika), Scopus, ou même HAL augmentant ainsi la visibilité et la diffusion des ressources PANIST sans avoir à proposer un nouveau portail documentaire à l'utilisateur final.
 
@@ -23,22 +23,22 @@ Vous trouverez ci-dessous comment l'installer étape par étape pour les différ
 
 ![](./assets/wikipedia_screenshot_nobtn.png)
 
-=> Aller sur  [**https://addons.panist.fr**](https://panistdepl.github.io/browser-extension/).
+=> Aller sur  [**https://addons.panist.fr**](https://addons.panist.fr/).
 => Cliquer sur « Ajouter l’extension à Firefox » (ou Chrome).
 => Autoriser l’installation.
 _Retrouver l’extension dans « Ouvrir le menu/Modules/Extensions »_
 => Un écran demande la sélection d'un établissement dans une liste déroulante.
 
-![](https://panistdepl.github.io/browser-extension/assets/config_page.png)
+![](./assets/config_page.png)
 
 => Choisir votre établissement et cliquer sur «Enregistrer ».
 => Recharger la page de Wikipédia « Ctrl + F5 ».
 => Si un indicateur vert s'affiche sur l'extension de l'icône c'est a dire que la page contient des boutons Panist.
-![](https://panistdepl.github.io/browser-extension/assets/icon_with_notif.png)
+![](./assets/icon_with_notif.png)
 
 
-![](https://panistdepl.github.io/browser-extension/assets/wikipedia_screenshot.png)
+![](./assets/wikipedia_screenshot.png)
 
 
 => En cliquant sur le bouton Panist tu peux accéder au fichier plein-texte PDF 
-![](https://panistdepl.github.io/browser-extension/src/img.png)
+![](./src/img.png)
