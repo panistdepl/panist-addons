@@ -9,7 +9,7 @@ Voici à quoi ressembleront les boutons PANIST cliquables qui apparaîtront dans
 
 ![](https://panistdepl.github.io/browser-extension/assets/btn_panist.png)
 
-Le bouton « PANIST » peut s’activer notamment sur les pages  [Wikipédia](https://fr.wikipedia.org/wiki/H%C3%A9lium),  [Google Scholar](https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=brain&btnG=), Scopus, ou même HAL augmentant ainsi la visibilité et la diffusion des ressources PANIST sans avoir à proposer un nouveau portail documentaire à l'utilisateur final.
+Le bouton « PANIST » peut s’activer notamment sur les pages  [Wikipédia](https://fr.wikipedia.org/wiki/Virus_Zika), Scopus, ou même HAL augmentant ainsi la visibilité et la diffusion des ressources PANIST sans avoir à proposer un nouveau portail documentaire à l'utilisateur final.
 
 Comme pour tous les autres modes d’accès au PDF ([widgets](https://widgets.panist.fr/)…) il est limité aux ayants droit PANIST, c'est-à-dire les personnels de l'Enseignement Supérieur et de la Recherche.
 
