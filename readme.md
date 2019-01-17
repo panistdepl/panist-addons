@@ -21,7 +21,7 @@ Vous trouverez ci-dessous comment l'installer étape par étape pour les différ
 
 => La recherche sur Wikipédia d’[**« Parkinson's disease »**](https://en.wikipedia.org/wiki/Parkinson%27s_disease)  donne la bibliographie suivante :
 
-![](https://github.com/panistdepl/panist-addons/assets/wikipedia_screenshot_nobtn.png)
+![](./assets/wikipedia_screenshot_nobtn.png)
 
 => Aller sur  [**https://addons.panist.fr**](https://panistdepl.github.io/browser-extension/).
 => Cliquer sur « Ajouter l’extension à Firefox » (ou Chrome).
