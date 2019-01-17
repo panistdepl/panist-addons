@@ -19,7 +19,7 @@ Vous trouverez ci-dessous comment l'installer étape par étape pour les différ
 
 ## Firefox ou Chrome
 
-=> La recherche sur Wikipédia d’[**« Parkinson's disease »**](https://en.wikipedia.org/wiki/Parkinson%27s_disease)  donne la bibliographie suivante :
+=> La recherche sur Wikipédia de[**« Parkinson's disease »**](https://en.wikipedia.org/wiki/Parkinson%27s_disease)  donne la bibliographie suivante :
 
 ![](./assets/wikipedia_screenshot_nobtn.png)
 
