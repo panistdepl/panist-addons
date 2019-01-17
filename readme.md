@@ -13,7 +13,7 @@ Le bouton « PANIST » peut s’activer notamment sur les pages  [Wikipédia](ht
 
 Comme pour tous les autres modes d’accès au PDF ([widgets](https://widgets.panist.fr/)…) il est limité aux ayants droit PANIST, c'est-à-dire les personnels de l'Enseignement Supérieur et de la Recherche.
 
-En tâche de fond, cette extension fait un usage intensif du  [**service de résolution OpenURL de l’API PANIST**](https://doc.panist.fr/api/openurl/).
+En tâche de fond, cette extension fait un usage intensif du  [**service de résolution OpenURL de l’API PANIST**](https://doc.istex.fr/api/openurl/).
 
 Vous trouverez ci-dessous comment l'installer étape par étape pour les différents navigateurs web.
 
