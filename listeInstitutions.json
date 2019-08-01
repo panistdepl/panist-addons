@@ -52,6 +52,10 @@
         "text": "Hôpitaux universitaires de Strasbourg (HUS)"
     },
     {
+        "id": "bim",
+        "text": "BIU Montpellier"
+    },
+    {
         "id": "bnu",
         "text": "Bibliothèque nationale et universitaire de Strasbourg (BNUS)"
     },
@@ -102,6 +106,10 @@
     {
         "id": "cer",
         "text": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (Cerema)"
+    },
+    {
+        "id": "chc",
+        "text": "Centre Hospitalier Universitaire de Clermont-Ferrand"
     },
     {
         "id": "chm",
@@ -626,6 +634,10 @@
     {
         "id": "sav",
         "text": "Université de Savoie"
+    },
+    {
+        "id": "sbu",
+        "text": "Sorbonne Université"
     },
     {
         "id": "sca",
